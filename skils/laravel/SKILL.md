@@ -1,3 +1,5 @@
+ ---
+
 name: Laravel
 description: Laravel development playbook covering architecture, validation, authorization, database, queues, testing, security, Blade, and Laravel 13 features.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -687,4 +689,3 @@ Before declaring a Laravel task complete:
 The final question is:
 
 > Does this code work, and does it belong in this Laravel application?
-
