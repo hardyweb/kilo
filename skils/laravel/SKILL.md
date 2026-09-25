@@ -1,4 +1,3 @@
----
 name: Laravel
 description: Laravel development playbook covering architecture, validation, authorization, database, queues, testing, security, Blade, and Laravel 13 features.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
